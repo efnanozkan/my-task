@@ -1,0 +1,188 @@
+{
+  "items" : [     
+      {
+          "itemID" : "1",
+          "photo" : "https://p4.wallpaperbetter.com/wallpaper/843/873/316/car-tesla-s-night-tesla-motors-wallpaper-preview.jpg",
+          "itemName" : "Paper Moon Blue",
+          "itemPrice" : 100,
+          "itemDescription" : "lorem is the explanation for the item. lorem is the explanation for the item. lorem is the explanation for the item",
+          "itemOwner" : "2",
+          "itemRating" : "10"
+      },
+      {
+          "itemID" : "2",
+          "photo" : "https://exoplanets.nasa.gov/internal_resources/2069/",
+          "itemName" : "The Hole",
+          "itemPrice" : 250,
+          "itemDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "itemOwner" : "3",
+          "itemRating" : "9.3"
+      },
+      {
+        "itemID" : "3",
+        "photo" : "https://as2.ftcdn.net/v2/jpg/03/08/68/85/1000_F_308688548_JunGUqXccSwsJFJFnxxxX1q8PNhoutK3.jpg",
+        "itemName" : "The Car",
+        "itemPrice" : 250,
+        "itemDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "itemOwner" : "3",
+        "itemRating" : "9.3"
+    }
+  ],
+  "users" : [
+      {
+          "userID" : "0",
+          "username" : "usernumberZero",
+          "profilepic" : "../assets/profilepicc",
+          "amountOfSales" : 8500,
+          "marketLink" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "profileLink" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      },
+      {
+          "userID" : "1",
+          "username" : "usernumberOne",
+          "profilepic" : "../assets/profilepicc",
+         "amountOfSales" : 99999,
+          "marketLink" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "profileLink" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      }, 
+      {
+          "userID" : "2",
+          "username" : "usernumberTwo",
+          "profilepic" : "../assets/profilepicc",
+         "amountOfSales" : 4500,
+          "marketLink" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "profileLink" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      }, 
+      {
+          "userID" : "3",
+          "username" : "usernumberThree",
+          "profilepic" : "../assets/profilepicc",
+         "amountOfSales" : 2000,
+          "marketLink" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "profileLink" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      },
+      {
+          "userID" : "4",
+          "username" : "usernumberFour",
+          "profilepic" : "../assets/profilepicc",
+         "amountOfSales" : 1500,
+          "marketLink" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "profileLink" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      },
+      {
+          "userID" : "5",
+          "username" : "usernumberFive",
+          "profilepic" : "../assets/profilepicc",
+         "amountOfSales" : 1000,
+          "marketLink" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "profileLink" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      }, 
+      {
+          "userID" : "6",
+          "username" : "usernumberSix",
+          "profilepic" : "../assets/profilepicc",
+         "amountOfSales" : 500,
+          "marketLink" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "profileLink" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      },
+      {
+          "userID" : "7",
+          "username" : "usernumberSeven",
+          "profilepic" : "../assets/profilepicc",
+         "amountOfSales" : 750,
+          "marketLink" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "profileLink" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      },
+      {
+          "userID" : "8",
+          "username" : "usernumberEight",
+          "profilepic" : "../assets/profilepicc",
+         "amountOfSales" : 200,
+          "marketLink" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "profileLink" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      } 
+  ],
+  "products" : [     
+            {
+                "itemID" : "0",
+                "itemPhoto" : "https://p4.wallpaperbetter.com/wallpaper/843/873/316/car-tesla-s-night-tesla-motors-wallpaper-preview.jpg",
+                "itemName" : "The Forest NFT",
+                "itemPrice" : 100,
+                "itemDescription" : "lorem is the explanation for the item. lorem is the explanation for the item. lorem is the explanation for the item",
+                "itemOwner" : "2",
+                "itemRating" : "10"
+            },
+            {
+                "itemID" : "1",
+                "itemPhoto" : "https://exoplanets.nasa.gov/internal_resources/2069/",
+                "itemName" : "The Forest NFT",
+                "itemPrice" : 150,
+                "itemDescription" : "lorem is the explanation for the item. lorem is the explanation for the item. lorem is the explanation for the item",
+                "itemOwner" : "6",
+                "itemRating" : "1"
+            },
+            {
+                "itemID" : "2",
+                "itemPhoto" : "https://as2.ftcdn.net/v2/jpg/03/08/68/85/1000_F_308688548_JunGUqXccSwsJFJFnxxxX1q8PNhoutK3.jpg",
+                "itemName" : "The Forest NFT",
+                "itemPrice" : 250,
+                "itemDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+                "itemOwner" : "3",
+                "itemRating" : "9.3"
+            },
+            {
+                "itemID" : "3",
+                "itemPhoto" : "https://exoplanets.nasa.gov/internal_resources/2069/",
+                "itemName" : "The Forest NFT",
+                "itemPrice" : 300,
+                "itemDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+                "itemOwner" : "5",
+                "itemRating" : "9"
+            },
+            {
+                "itemID" : "4",
+                "itemPhoto" : "https://p4.wallpaperbetter.com/wallpaper/843/873/316/car-tesla-s-night-tesla-motors-wallpaper-preview.jpg",
+                "itemName" : "The Forest NFTe",
+                "itemPrice" : 200,
+                "itemDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+                "itemOwner" : "4",
+                "itemRating" : "2"
+            },
+            {
+                "itemID" : "5",
+                "itemPhoto" : "https://as2.ftcdn.net/v2/jpg/03/08/68/85/1000_F_308688548_JunGUqXccSwsJFJFnxxxX1q8PNhoutK3.jpg",
+                "itemName" : "The Forest NFT",
+                "itemPrice" : 100,
+                "itemDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+                "itemOwner" : "4",
+                "itemRating" : "4"
+            },
+            {
+                "itemID" : "6",
+                "itemPhoto" : "https://exoplanets.nasa.gov/internal_resources/2069/",
+                "itemName" : "_The Forest NFT",
+                "itemPrice" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+                "itemDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+                "itemOwner" : null,
+                "itemRating" : null
+            },
+            {
+                "itemID" : "7",
+                "itemPhoto" : "https://as2.ftcdn.net/v2/jpg/03/08/68/85/1000_F_308688548_JunGUqXccSwsJFJFnxxxX1q8PNhoutK3.jpg",
+                "itemName" : "The Forest NFT",
+                "itemPrice" : null,
+                "itemDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+                "itemOwner" : null,
+                "itemRating" : null
+            },
+            {
+                "itemID" : "8",
+                "itemPhoto" : "https://p4.wallpaperbetter.com/wallpaper/843/873/316/car-tesla-s-night-tesla-motors-wallpaper-preview.jpg",
+                "itemName" : "The Forest NFT",
+                "itemPrice" : null,
+                "itemDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+                "itemOwner" : null,
+                "itemRating" : null
+            }
+        ]
+}
